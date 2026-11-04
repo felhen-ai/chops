@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "chops"
-version = "1.0.0"
+version = "1.0.1"
 description = "ClickHouse Operations CLI — health checks, data quality, schema migrations, and observability"
 readme = "README.md"
 license = "MIT"
@@ -36,9 +36,9 @@ dependencies = [
 chops = "chops.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/antonio-mello-ai/chops"
-Repository = "https://github.com/antonio-mello-ai/chops"
-Issues = "https://github.com/antonio-mello-ai/chops/issues"
+Homepage = "https://github.com/felhen-ai/chops"
+Repository = "https://github.com/felhen-ai/chops"
+Issues = "https://github.com/felhen-ai/chops/issues"
 
 [project.optional-dependencies]
 dev = [

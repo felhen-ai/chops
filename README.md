@@ -194,7 +194,7 @@ critical failure or missing required data.
 ## Development
 
 ```bash
-git clone https://github.com/antonio-mello-ai/chops.git
+git clone https://github.com/felhen-ai/chops.git
 cd chops
 python -m venv .venv
 source .venv/bin/activate
